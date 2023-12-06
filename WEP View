@@ -1,0 +1,3 @@
+git Remote Add Origin https://github.com/Internetik7/WEP-View.git
+   فرع git -M الرئيسي 
+  git Push -u Origin main
